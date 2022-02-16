@@ -1,8 +1,8 @@
 const Discord = require('discord.js');
 
 module.exports = {
-    name: "verificar" , 
-    alias: [] 
+    
+
 
     execute(client, message, args) {
 
